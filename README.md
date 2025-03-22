@@ -15,6 +15,9 @@ cd GhostBunny-AVBypass
 chmod +x GhostBunny.sh
 sudo apt install metasploit-framework osslsigncode macro_pack mingw-w64 pdftk
 
-Usage:
-./GhostBunny.sh
+Legal Warning
+⚠️ This tool is for authorized penetration testing and CTF challenges only.
+Misuse for illegal purposes is strictly prohibited.
+
+
 
